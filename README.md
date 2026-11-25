@@ -8,13 +8,13 @@ I'm an Information Technology student who enjoys building practical software pro
 
 ## 🚀 About Me
 
-* 🎓 Information Technology Student
-* ☕ Backend Development Enthusiast
-* 🍃 Currently focusing on Java Spring Boot
-* 🐘 Building web applications with PHP
-* 🗄️ Interested in Database Design & Management
-* ☁️ Exploring Cloud Computing
-* 📚 Learning by building real-world projects
+* Information Technology Student
+* Backend Development Enthusiast
+* Currently focusing on Java Spring Boot
+* Building web applications with PHP
+* Interested in Database Design & Management
+* Exploring Cloud Computing
+* Learning by building real-world projects
 
 ---
 
